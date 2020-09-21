@@ -1,4 +1,11 @@
-### Hi there 👋
+### Viktoria Vasileva 
+🇷🇺 &nbsp;&nbsp;&nbsp;&nbsp;Saint-Petersburg, Russia
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Telekom_Logo_2013.svg/1200px-Telekom_Logo_2013.svg.png" width="30px"> &nbsp;&nbsp;Deutsche Telekom IT Solutions (ex.T-Systems)
+
+🚀 &nbsp;&nbsp;&nbsp;&nbsp;Senior **Front-end developer** in IoT department
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="20px"> &nbsp;&nbsp; Make apps with Vue.js
 
 <!--
 **victory-v/victory-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
