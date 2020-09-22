@@ -7,6 +7,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="20px"> &nbsp;&nbsp; Make apps with Vue.js
 
+
+<img src="https://raw.githubusercontent.com/victory-v/victory-v.github.io/918d59cbb712e566e3248e8672fe51dd22758c48/images/pic.svg" width="100%">
 <!--
 **victory-v/victory-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
